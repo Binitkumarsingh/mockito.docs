@@ -9,6 +9,7 @@ org.mockito.internal
 org.mockito.internal.configuration
 org.mockito.internal.configuration.injection
 org.mockito.internal.configuration.injection.filter
+org.mockito.internal.configuration.injection.scanner
 org.mockito.internal.creation
 org.mockito.internal.creation.cglib
 org.mockito.internal.creation.jmock
