@@ -9,20 +9,16 @@ org.mockito.internal
 org.mockito.internal.configuration
 org.mockito.internal.configuration.injection
 org.mockito.internal.configuration.injection.filter
-org.mockito.internal.configuration.injection.scanner
 org.mockito.internal.creation
 org.mockito.internal.creation.cglib
 org.mockito.internal.creation.jmock
-org.mockito.internal.creation.settings
 org.mockito.internal.debugging
 org.mockito.internal.exceptions
 org.mockito.internal.exceptions.base
 org.mockito.internal.exceptions.util
-org.mockito.internal.handler
 org.mockito.internal.invocation
 org.mockito.internal.invocation.finder
 org.mockito.internal.invocation.realmethod
-org.mockito.internal.junit
 org.mockito.internal.listeners
 org.mockito.internal.matchers
 org.mockito.internal.matchers.apachecommons
@@ -34,7 +30,6 @@ org.mockito.internal.stubbing
 org.mockito.internal.stubbing.answers
 org.mockito.internal.stubbing.defaultanswers
 org.mockito.internal.util
-org.mockito.internal.util.collections
 org.mockito.internal.util.junit
 org.mockito.internal.util.reflection
 org.mockito.internal.verification
@@ -43,8 +38,6 @@ org.mockito.internal.verification.argumentmatching
 org.mockito.internal.verification.checkers
 org.mockito.invocation
 org.mockito.listeners
-org.mockito.mock
-org.mockito.plugins
 org.mockito.runners
 org.mockito.stubbing
 org.mockito.stubbing.answers
